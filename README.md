@@ -21,6 +21,7 @@ Para este projeto o usuário pode criar uma lista dos seus repositórios favorit
 * react-spinner-material;
 * loading;
 * consumo API;
+* syled-components;
 
 ## Veja o projeto completo:
 
